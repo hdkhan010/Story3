@@ -1,2 +1,3 @@
 This is the first chapter.
 Some additional text.
+Additional text for 3rd commit.
